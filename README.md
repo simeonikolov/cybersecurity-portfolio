@@ -48,6 +48,7 @@ LinkedIn: https://www.linkedin.com/in/simeon-nikolov-667849346/
 ### SOC Labs
 - [Incident Report](soc-labs/incident-report.md)
 - [Splunk SIEM Monitoring PoC (PDF)](soc-labs/Splunk_PoC_Project_Simeon_Nikolov.pdf)
+  *Real SOC lab using Splunk SIEM to detect brute-force SSH attacks, analyze logs, and build alerts.*
 
 
 ### Pentest Labs
