@@ -53,3 +53,10 @@ LinkedIn: https://www.linkedin.com/in/simeon-nikolov-667849346/
 
 ### Pentest Labs
 - [Nmap Network Scan](pentest-labs/nmap-scan.md)
+
+## Tools & Notes
+
+- [Nmap Cheatsheet](tools/nmap-cheatsheet.md)
+- [Linux Commands](tools/linux-commands.md)
+- [Splunk Queries](tools/splunk-queries.md)
+
