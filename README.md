@@ -13,7 +13,7 @@ Hands-on labs, Linux security, incident response, and ethical hacking practice.
 - Fortinet NSE training
 
 ## Certifications & Training
-- SoftUni Cybersecurity & Ethical Hacking
+- SoftUni Cybersecurity & Ethical Hacking Upskill Program
 - Fortinet NSE 1–3
 - Google Cybersecurity Professional Certificate (in progress)
 
