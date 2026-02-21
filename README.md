@@ -26,3 +26,15 @@ Hands-on labs, Linux security, incident response, and ethical hacking practice.
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/simeon-nikolov-667849346/
+
+
+## Projects & Labs
+
+### Linux Labs
+- [Permissions Lab](linux/permissions-lab.md)
+
+### SOC Labs
+- [Incident Report](soc-labs/incident-report.md)
+
+### Pentest Labs
+- [Nmap Network Scan](pentest-labs/nmap-scan.md)
