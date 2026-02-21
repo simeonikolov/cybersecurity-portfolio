@@ -1,5 +1,9 @@
 # Simeon Nikolov – Cybersecurity Portfolio
 
+Welcome to my cybersecurity portfolio!  
+This repository showcases my practical work in SOC labs, malware analysis, Linux security, threat detection, and pentesting.  
+You can find detailed reports, hands-on labs, and reference projects below.
+
 Aspiring SOC Analyst & Pentester  
 Hands-on labs, Linux security, incident response, and ethical hacking practice.
 
