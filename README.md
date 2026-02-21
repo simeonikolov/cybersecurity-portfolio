@@ -13,9 +13,21 @@ Hands-on labs, Linux security, incident response, and ethical hacking practice.
 - Fortinet NSE training
 
 ## Certifications & Training
-- SoftUni Cybersecurity & Ethical Hacking Upskill Program
-- Fortinet NSE 1–3
-- Google Cybersecurity Professional Certificate (in progress)
+
+### Fortinet
+- [Fortinet Certified Fundamentals in Cybersecurity](certificates/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity.pdf)
+- [Fortinet Certified Associate in Cybersecurity](certificates/Fortinet%20Certified%20Associate%20in%20Cybersecurity.pdf)
+
+### SoftUni / Courses
+- [Introduction to Cyber Security – Feb 2024](certificates/Introduction%20to%20Cyber%20Security%20-%20February%202024%20-%20Certificate.pdf)
+- [Reconnaissance Fundamentals – Apr 2024](certificates/Reconnaissance%20Fundamentals%20-%20April%202024%20-%20Certificate.pdf)
+- [System & Network Compromising – Jun 2024](certificates/System%20and%20Network%20Compromising%20-%20June%202024%20-%20Certificate.pdf)
+- [Compromising Platforms – Sep 2024](certificates/Compromising%20Platforms%20-%20September%202024%20-%20Certificate.pdf)
+- [Programming Basics – Jan 2025](certificates/Programming%20Basics%20-%20January%202025%20-%20Certificate.pdf)
+
+### In Progress
+- Google Cybersecurity Professional Certificate
+
 
 ## Projects
 - SOC Home Lab
