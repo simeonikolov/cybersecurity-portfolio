@@ -48,7 +48,6 @@ LinkedIn: https://www.linkedin.com/in/simeon-nikolov-667849346/
 - [Incident Report](soc-labs/incident-report.md)
 - [Splunk SIEM Monitoring PoC (PDF)](soc-labs/Splunk_PoC_Project_Simeon_Nikolov.pdf)
   *Real SOC lab using Splunk SIEM to detect brute-force SSH attacks, analyze logs, and build alerts.*
-  ## SOC Labs
 - [Malware Analysis Report (Safe Example)](soc-labs/Malware_Analysis_Report.md) – Example malware analysis using VirusTotal and Pyramid of Pain. All IoCs are anonymized for safe public viewing.
 - Splunk queries
 
