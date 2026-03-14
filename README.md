@@ -29,7 +29,7 @@ Hands-on labs, Linux security, incident response, and ethical hacking practice.
 - [Compromising Platforms – Sep 2024](certificates/Compromising%20Platforms%20-%20September%202024%20-%20Certificate.pdf)
 - [Programming Basics – Jan 2025](certificates/Programming%20Basics%20-%20January%202025%20-%20Certificate.pdf)
 
-### In Progress
+### Google
 - Google Cybersecurity Professional Certificate
 
 
