@@ -30,7 +30,7 @@ Hands-on labs, Linux security, incident response, and ethical hacking practice.
 - [Programming Basics – Jan 2025](certificates/Programming%20Basics%20-%20January%202025%20-%20Certificate.pdf)
 
 ### Google
-- Google Cybersecurity Professional Certificate
+- [Google Cybersecurity Professional Certificate – Mar 2026](certificates/Google%20Cybersecurity%20Professional%20Certificate.pdf)
 
 
 ## Projects
