@@ -57,8 +57,8 @@ LinkedIn: https://www.linkedin.com/in/simeon-nikolov-667849346/
 
 ### Pentest Labs
 ### 🚀 Web-Based Reverse Shell Exploitation
-* Technical report on establishing a reverse TCP connection to a Bee-Box environment.
-* **[View Full Technical Report (PDF)](./pentest-labs/reverse-shell-report.pdf)**
+Technical report on establishing a reverse TCP connection to a Bee-Box environment.
+* **[View Full Technical Report (PDF)](./pentest-labs/Web-Based%20Reverse%20Shell%20Exploitation.pdf)**
 
 ## Tools & Notes
 
