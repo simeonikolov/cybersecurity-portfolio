@@ -56,7 +56,9 @@ LinkedIn: https://www.linkedin.com/in/simeon-nikolov-667849346/
 - Splunk queries
 
 ### Pentest Labs
-- [Nmap Network Scan](pentest-labs/nmap-scan.md)
+### 🚀 Web-Based Reverse Shell Exploitation
+* Technical report on establishing a reverse TCP connection to a Bee-Box environment.
+* **[View Full Technical Report (PDF)](./pentest-labs/reverse-shell-report.pdf)**
 
 ## Tools & Notes
 
