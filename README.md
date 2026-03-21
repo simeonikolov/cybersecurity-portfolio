@@ -32,7 +32,6 @@ Hands-on labs, Linux security, incident response, and ethical hacking practice.
 ### Google
 - [Google Cybersecurity Professional Certificate – Mar 2026](certificates/Google%20Cyber%20Security%20Certificate.pdf)
 
-
 ## Projects
 - SOC Home Lab
 - Linux Permissions Management
@@ -45,8 +44,7 @@ LinkedIn: https://www.linkedin.com/in/simeon-nikolov-667849346/
 
 ## Projects & Labs
 
-### Linux Labs
-- [Permissions Lab](linux/permissions-lab.md)
+
 
 ### SOC Labs
 - [Splunk SIEM Monitoring PoC (PDF)](soc-labs/Splunk_PoC_Project_Simeon_Nikolov.pdf)
@@ -64,4 +62,7 @@ Technical report on establishing a reverse TCP connection to a Bee-Box environme
 - [Nmap Cheatsheet](tools/nmap-cheatsheet.md)
 - [Linux Commands](tools/linux-commands.md)
 - [Splunk Queries](tools/splunk-queries.md)
+
+### Linux Labs
+- [Permissions Lab](linux/permissions-lab.md)
 
