@@ -45,6 +45,10 @@ LinkedIn: https://www.linkedin.com/in/simeon-nikolov-667849346/
 ## Projects & Labs
 
 ### 🚀 Featured Project: NetSeg-Pro
+
+<p align="center">
+  <img src="./NetSeg-Tool/menu.png" alt="NetSeg-Pro Menu Screenshot" width="700">
+</p>
 * **🛡️ NetSeg-Pro: Network Security & Audit Tool**
   Custom Python tool for automated network scanning (Nmap) and malware auditing (ClamAV). Includes a `setup.sh` installer for rapid deployment.
   * **📂 View Project Files:** [Click here to see the code](./NetSeg-Tool)
