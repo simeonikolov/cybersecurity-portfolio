@@ -3,6 +3,7 @@ import os
 import sys
 import subprocess
 import re
+import ipaddress
 
 def clear():
     os.system('clear')
@@ -29,7 +30,7 @@ def main():
         choice = input("Select option [1-6]: ")
 
         if choice == '1':
-            net = input("Enter Network: ")
+            net = input("Enter Network (e.g. 192.168.1.0/24): ")
             if validate_input(net):
                 subprocess.run(["nmap", "-sn", net])
             else:
@@ -53,20 +54,31 @@ def main():
             input("\nDone. Press Enter...")
             
         elif choice == '4':
-            print("\n--- Subnet Mode Active ---")
-            print("Feature under development. Logic coming soon.")
+            print("\n--- IP Subnet Calculator ---")
+            addr = input("Enter Network CIDR (e.g. 192.168.1.0/24): ")
+            try:
+                net = ipaddress.ip_network(addr, strict=False)
+                print(f"\nNetwork Address:  {net.network_address}")
+                print(f"Broadcast Address:{net.broadcast_address}")
+                print(f"Netmask:          {net.netmask}")
+                print(f"Wildcard Mask:    {net.hostmask}")
+                print(f"Usable Hosts:     {max(0, net.num_addresses - 2)}")
+            except ValueError:
+                print("\n[!] Error: Invalid CIDR format.")
             input("\nDone. Press Enter...")
             
         elif choice == '5':
+            print("\nGenerating report...")
             with open("report.txt", "w") as f:
                 subprocess.run(["uname", "-a"], stdout=f)
-            print("Saved to report.txt")
+            print("System info saved to report.txt")
             input("\nDone. Press Enter...")
             
         elif choice == '6':
+            print("Exiting...")
             sys.exit()
         else:
-            input("Invalid selection. Enter...")
+            input("Invalid selection. Press Enter...")
 
 if __name__ == "__main__":
     main()
