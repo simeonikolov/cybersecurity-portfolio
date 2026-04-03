@@ -22,6 +22,7 @@ This tool has been specifically audited and hardened against **OS Command Inject
 ---
 
 ## 🛠️ Installation & Usage
+
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/simeonikolov/cybersecurity-portfolio.git](https://github.com/simeonikolov/cybersecurity-portfolio.git)
